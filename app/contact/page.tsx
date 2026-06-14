@@ -6,7 +6,7 @@ export default function ContactPage() {
     <>
       <PageHero
         eyebrow="Contact"
-        title="Book a consultation with CENNIS."
+        title="Book a consultation with CENNIS Capital Advisory."
         description="Share a few details and the advisory team will follow up. This form is static for now and ready for a future backend."
       />
       <Section className="bg-[#f7f8fb]">

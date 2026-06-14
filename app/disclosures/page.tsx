@@ -11,8 +11,8 @@ export default function DisclosuresPage() {
       <Section className="bg-white">
         <div className="max-w-4xl space-y-6 text-sm leading-7 text-slate-700">
           <p>
-            CENNIS is a placeholder brand for a prospective wealth management
-            and portfolio advisory platform. The information on this website is
+            CENNIS Capital Advisory is a placeholder brand for a prospective
+            advisory platform. The information on this website is
             for illustrative purposes only and does not constitute investment,
             tax, accounting, or legal advice.
           </p>

@@ -47,8 +47,8 @@ export default function AboutPage() {
   return (
     <>
       <PageHero
-        eyebrow="About CENNIS"
-        title="Built to make financial decisions clearer."
+        eyebrow="About CENNIS Capital Advisory"
+        title="About CENNIS"
         description="We help individuals, families, and business owners organize their finances, understand their options, and build a plan they can actually follow."
       />
 
@@ -56,7 +56,7 @@ export default function AboutPage() {
         <div className="grid gap-10 lg:grid-cols-[0.78fr_1.22fr] lg:items-start">
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.22em] text-[#9E3236]">
-              Why CENNIS Exists
+              Why CENNIS Capital Advisory Exists
             </p>
             <h2 className="mt-3 font-serif text-4xl font-semibold leading-tight text-[#163A63]">
               Financial life can feel complicated. Advice should make it clearer.

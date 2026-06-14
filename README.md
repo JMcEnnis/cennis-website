@@ -1,6 +1,6 @@
-# CENNIS Wealth Advisory Website
+# CENNIS Capital Advisory Website
 
-A Next.js + Tailwind public website and starter app structure for CENNIS, a modern wealth management and portfolio advisory platform.
+A Next.js + Tailwind public website and starter app structure for CENNIS Capital Advisory.
 
 ## Pages
 

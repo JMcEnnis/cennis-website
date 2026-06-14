@@ -44,7 +44,9 @@ export function Footer() {
                 className="h-auto w-10"
               />
             </span>
-            <span className="text-lg font-semibold tracking-[0.18em]">CENNIS</span>
+            <span className="text-lg font-semibold tracking-[0.18em]">
+              CENNIS CAPITAL ADVISORY
+            </span>
           </div>
           <p className="mt-5 max-w-md text-sm leading-6 text-[#F9F4EE]/75">
             Clear financial guidance for people building stability, structure,
@@ -71,7 +73,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-[#8B5128]/30 px-4 py-5 text-center text-xs text-[#F9F4EE]/55">
-        © 2026 CENNIS. Placeholder website. Advisory services and regulatory
+        © 2026 CENNIS Capital Advisory. Placeholder website. Advisory services and regulatory
         disclosures are illustrative only.
       </div>
     </footer>

@@ -4,9 +4,9 @@ import { Footer } from "@/components/footer";
 import { Header } from "@/components/header";
 
 export const metadata: Metadata = {
-  title: "CENNIS | Wealth Management and Portfolio Advisory",
+  title: "CENNIS Capital Advisory",
   description:
-    "CENNIS is a modern wealth management and portfolio advisory platform for disciplined investors, founders, and families.",
+    "CENNIS Capital Advisory provides clear financial guidance for real-life planning, investing, retirement, and business decisions.",
 };
 
 export default function RootLayout({

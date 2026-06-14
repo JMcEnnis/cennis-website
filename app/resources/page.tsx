@@ -19,7 +19,7 @@ export default function ResourcesPage() {
         <div className="grid gap-5 md:grid-cols-2">
           {resources.map((resource) => (
             <article key={resource} className="rounded-sm border border-slate-200 p-6">
-              <p className="text-sm font-semibold text-[#a77c26]">CENNIS insight</p>
+              <p className="text-sm font-semibold text-[#a77c26]">CENNIS Capital Advisory insight</p>
               <h2 className="mt-2 text-xl font-semibold text-[#071b35]">{resource}</h2>
               <p className="mt-3 text-sm leading-6 text-slate-600">
                 Placeholder summary for future thought leadership and client
